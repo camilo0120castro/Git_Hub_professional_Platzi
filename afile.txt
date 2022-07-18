@@ -2,3 +2,5 @@ este archivo es nuevo.
 Estamos usando Git reset head, este archivo se subirá pero untra_file NO
 Cambios en este archivo y en untra_file
 Modificamos afile para luego subirlo y sacarlo de staging
+
+Vamos a volver a usar git soft
