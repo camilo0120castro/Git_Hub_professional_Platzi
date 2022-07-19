@@ -1,1 +1,0 @@
-Esto es para demostrar el uso de git reset --mixed
