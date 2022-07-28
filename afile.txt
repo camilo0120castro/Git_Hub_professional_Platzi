@@ -6,3 +6,5 @@ Modificamos afile para luego subirlo y sacarlo de staging
 Vamos a usar esta vez un comando nuevo llamado Git rm el cual elimina los archivos de staging.
 
 Vamos a crear una nueva rama. Pero esto se quedó en la rama main.
+
+Estos cambios se muestran solo en la rama proyecto_html.

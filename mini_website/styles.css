@@ -1,0 +1,15 @@
+* {
+    size: 62.5%;
+}
+
+h1 {
+    size: 2rem;
+    color: crimson;
+    text-align: center;
+}
+
+p {
+    size: 1.6rem;
+    color: darkorange;
+    text-align: center;
+}
