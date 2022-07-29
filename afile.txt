@@ -1,8 +1,3 @@
-este archivo es nuevo.
-Estamos usando Git reset head, este archivo se subirá pero untra_file NO
-Cambios en este archivo y en untra_file
-Modificamos afile para luego subirlo y sacarlo de staging
+Vamos a crear una nueva rama. Estos cambios se muestran solo en la rama proyecto_html.
 
-Vamos a usar esta vez un comando nuevo llamado Git rm el cual elimina los archivos de staging.
-
-Vamos a crear una nueva rama. Pero esto se quedó en la rama main.
+Hemos cambiado por completo el archivo y hemos borrado casi todo lo que había en él. También modificar el archivo prueba.txt
