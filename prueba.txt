@@ -1,1 +1,1 @@
-Esta prueba ya no es segura y se autodestruirá en 10 segundos
+El archivo en la otra rama (proyecto_html) contiene muchos cambios y nada está definido en la rama main.
