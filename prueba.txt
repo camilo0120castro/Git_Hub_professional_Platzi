@@ -1,1 +1,1 @@
-Esta prueba ya no es segura y se autodestruirá en 10 segundos
+Esta prueba ya no es segura y se autodestruirá en 50 segundos y contando
