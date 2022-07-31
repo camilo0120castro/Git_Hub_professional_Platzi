@@ -1,4 +1,4 @@
-Vamos a crear una nueva rama. Estos cambios se muestran solo en la rama proyecto_html.
+Vamos a crear una nueva rama. Estos cambios fueron creados en GItHub.
 
 Hemos cambiado por completo el archivo.
 
