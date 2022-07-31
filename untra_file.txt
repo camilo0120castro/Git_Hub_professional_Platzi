@@ -1,3 +1,1 @@
-Este archivo es para hacer pruebas con Git reset y rm.
-Primero probaremos utilizar git Reset HEAD.
-Cambios por todas partes incluso entre ramas
+Este archivo es para hacer pruebas con GitHub

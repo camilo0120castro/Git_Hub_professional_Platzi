@@ -1,3 +1,5 @@
 Vamos a crear una nueva rama. Estos cambios se muestran solo en la rama proyecto_html.
 
-Hemos cambiado por completo el archivo y hemos borrado casi todo lo que había en él. También modificar el archivo prueba.txt
+Hemos cambiado por completo el archivo.
+
+Estos cambios van a ser subidos a GitHub

@@ -1,2 +1,2 @@
-El archivo en la otra rama (proyecto_html) contiene muchos cambios y nada está definido en la rama main.
-Esta prueba ya no es segura y se autodestruirá en 50 segundos y contando
+El archivo en la otra rama (proyecto_html) contiene muchos cambios.
+Esta prueba ahora va a vincular este proyecto con GitHub, para poner a prueba todas las ventajas que tiene GitHub como plataforma

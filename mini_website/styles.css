@@ -13,3 +13,7 @@ p {
     color: darkorange;
     text-align: center;
 }
+
+.header > li{
+    text-decoration-line: none;
+}
