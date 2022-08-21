@@ -1,2 +1,4 @@
 El archivo en la otra rama (proyecto_html) contiene muchos cambios.
 Esta prueba ahora va a vincular este proyecto con GitHub, para poner a prueba todas las ventajas que tiene GitHub como plataforma
+
+This file is now up to date.
